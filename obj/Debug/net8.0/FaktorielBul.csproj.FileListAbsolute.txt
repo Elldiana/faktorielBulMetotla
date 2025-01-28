@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\bin\Debug\net8.0\FaktorielBul.exe
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\bin\Debug\net8.0\FaktorielBul.deps.json
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\bin\Debug\net8.0\FaktorielBul.runtimeconfig.json
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\bin\Debug\net8.0\FaktorielBul.dll
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\bin\Debug\net8.0\FaktorielBul.pdb
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\FaktorielBul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\FaktorielBul.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\FaktorielBul.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\FaktorielBul.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\FaktorielBul.dll
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\refint\FaktorielBul.dll
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\FaktorielBul.pdb
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\FaktorielBul.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\mOds\FaktorielBul\obj\Debug\net8.0\ref\FaktorielBul.dll
